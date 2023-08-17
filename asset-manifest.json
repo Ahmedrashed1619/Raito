@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Raito/static/css/main.8887bf59.css",
-    "main.js": "/Raito/static/js/main.0a31e738.js",
+    "main.css": "/Raito/static/css/main.f033b90c.css",
+    "main.js": "/Raito/static/js/main.58458745.js",
     "static/media/bg.jpg": "/Raito/static/media/bg.57c36fbc3aad439ea4bb.jpg",
     "index.html": "/Raito/index.html",
-    "main.8887bf59.css.map": "/Raito/static/css/main.8887bf59.css.map",
-    "main.0a31e738.js.map": "/Raito/static/js/main.0a31e738.js.map"
+    "main.f033b90c.css.map": "/Raito/static/css/main.f033b90c.css.map",
+    "main.58458745.js.map": "/Raito/static/js/main.58458745.js.map"
   },
   "entrypoints": [
-    "static/css/main.8887bf59.css",
-    "static/js/main.0a31e738.js"
+    "static/css/main.f033b90c.css",
+    "static/js/main.58458745.js"
   ]
 }
