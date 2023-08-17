@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="container-fluid">
           <div className="d-flex justify-content-between align-items-center w-100">
             <a href="/" className="navbar-brand">
-                <img src={logo} alt="logo" />
+                <img loading="lazy" src={logo} alt="logo" />
                 <p>شركـة رايتـو للبرمجيـات</p>
             </a>
             <button className="btn">أنظمـة رايتـو المحاسبيـة</button>
