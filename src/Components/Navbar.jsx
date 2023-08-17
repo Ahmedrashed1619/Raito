@@ -9,10 +9,10 @@ export default function Navbar() {
     <nav className="navbar pt-2 pb-3">
         <div className="container-fluid">
           <div className="d-flex justify-content-between align-items-center w-100">
-            <a href="/" className="navbar-brand">
+            <div className="navbar-brand">
                 <img loading="lazy" src={logo} alt="logo" />
                 <p>شركـة رايتـو للبرمجيـات</p>
-            </a>
+            </div>
             <button className="btn">أنظمـة رايتـو المحاسبيـة</button>
           </div>
         </div>

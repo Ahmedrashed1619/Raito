@@ -33,40 +33,40 @@ export default function Home() {
     <div className='d-flex justify-content-center align-items-cente py-5'>
         <div className="box">
             <img loading="lazy" src={process.env.PUBLIC_URL + "/images/main.jpg"} alt="main" />
-              <>
-                <div className="item first-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11838.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-                <div className="item second-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11839.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-                <div className="item third-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11840.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-                <div className="item fourth-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11841.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-                <div className="item fifth-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11842.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-                <div className="item sixth-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11843.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-                <div className="item seventh-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11844.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-                <div className="item eighth-item" onClick={handleShow}>
-                    <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Path 19109.png"} alt="item" />
-                    <div className="bg-item">jjj</div>
-                </div>
-              </>
+            <>
+            <div className="item first-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11838.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            <div className="item second-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11839.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            <div className="item third-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11840.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            <div className="item fourth-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11841.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            <div className="item fifth-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11842.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            <div className="item sixth-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11843.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            <div className="item seventh-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Group 11844.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            <div className="item eighth-item" onClick={handleShow}>
+                <img loading="lazy" src={process.env.PUBLIC_URL + "/images/Path 19109.png"} alt="item" />
+                <div className="bg-item">jjj</div>
+            </div>
+            </>
         </div>
 
 
